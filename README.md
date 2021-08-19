@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gokul133
+- 👀 I’m interested in developing softwares and stuffs about Operating Systems
+- 🌱 I’m currently learning c and c++
